@@ -39,3 +39,5 @@ Il me mets une erreur par rapport a 'number_of_minutes_in_an_hour' et ne pas avo
 Bonjour, c'est quoi ton blase ?
 'TON BLASE'
 REPETITION DE 'TON BLASE'
+
+La difference entre les trois programmes c'est que le premier n'a pas de '> ' avant l'introduction du blase comme dans le deuxieme programme. Dans le dernier programme il n'y a aucune phrase avant l'introduction du blase se qui fait que c'est inconprehensible.
